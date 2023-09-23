@@ -1,7 +1,5 @@
-print(2+5)
-print("2+5")
-'''
-hggdjcfgxfnvxcbcm
-hfn ,n jkb gh
-gfvbjnk 
-'''
+a = 2 + 5 
+print(a)
+print('........')
+print(b)
+b = "sum of numbers"
